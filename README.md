@@ -9,7 +9,8 @@ also add room generation, random decoration and lock and keys generations.
 documentation can be found in simple dungeon generator folder.  
 
 
-![image](https://github.com/bennynil/Simple-3D-dungeon-Generator/blob/main/dungeon_view.png)
+![image](https://github.com/bennynil/Simple-3D-dungeon-Generator/blob/main/dungeon_view.png)  
+
 vazgriz’s project: https://github.com/vazgriz/DungeonGenerator?tab=readme-ov-file  
 
 
