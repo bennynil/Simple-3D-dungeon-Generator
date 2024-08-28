@@ -4,7 +4,7 @@ Using 2D triangulation, 2D path finding, 2D grid  from vazgriz’s project and a
 custom room to make 3D layout dungeon and room has multiple floors and can 
 connect to each other possible and can control how many ways to go to other layers, 
 also add room generation, random decoration and lock and keys generations.
-![image](picture or gif url)
+![image](https://github.com/bennynil/Simple-3D-dungeon-Generator/blob/main/dungeon_view.png)
 vazgriz’s project: https://github.com/vazgriz/DungeonGenerator?tab=readme-ov-file
 
 Lisense
