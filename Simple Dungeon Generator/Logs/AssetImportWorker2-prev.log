@@ -1,0 +1,230 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.5f1 (9674261d40ee) revision 9860134'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 24507 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unitypj\2022.3.5f1\Unity 2022.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Unity project/Simple Dungeon Generator
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+60653
+Successfully changed project path to: D:/Unity project/Simple Dungeon Generator
+D:/Unity project/Simple Dungeon Generator
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15800] Host "[IP] 192.168.1.101 [Port] 0 [Flags] 2 [Guid] 2534807337 [EditorId] 2534807337 [Version] 1048832 [Id] WindowsEditor(7,Joanne) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15800] Host "[IP] 192.168.1.101 [Port] 0 [Flags] 2 [Guid] 2534807337 [EditorId] 2534807337 [Version] 1048832 [Id] WindowsEditor(7,Joanne) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 21.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.5f1 (9674261d40ee)
+[Subsystems] Discovering subsystems at path D:/Unitypj/2022.3.5f1/Unity 2022.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity project/Simple Dungeon Generator/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6500 XT (ID=0x743f)
+    Vendor:   ATI
+    VRAM:     4051 MB
+    Driver:   31.0.23013.1023
+Initialize mono
+Mono path[0] = 'D:/Unitypj/2022.3.5f1/Unity 2022.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unitypj/2022.3.5f1/Unity 2022.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unitypj/2022.3.5f1/Unity 2022.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unitypj/2022.3.5f1/Unity 2022.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009819 seconds.
+- Loaded All Assemblies, in  0.358 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.298 seconds
+Domain Reload Profiling: 655ms
+	BeginReloadAssembly (100ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (144ms)
+		LoadAssemblies (99ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (141ms)
+			TypeCache.Refresh (140ms)
+				TypeCache.ScanAssembly (127ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (298ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (232ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (157ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity project\Simple Dungeon Generator\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity project\Simple Dungeon Generator\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.759 seconds
+Refreshing native plugins compatible for Editor in 3.28 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.601 seconds
+Domain Reload Profiling: 1360ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (504ms)
+		LoadAssemblies (268ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (316ms)
+			TypeCache.Refresh (296ms)
+				TypeCache.ScanAssembly (284ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (601ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (431ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (336ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3116 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (56.3 KB). Loaded Objects now: 3580.
+Memory consumption went from 117.3 MB to 117.3 MB.
+Total: 4.586800 ms (FindLiveObjects: 0.305500 ms CreateObjectMapping: 0.091300 ms MarkObjects: 4.068400 ms  DeleteObjects: 0.119800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/Generator2D.cs: f6bf58537d1e828b325b6cf03ee56c1d -> 74c4a4a3895ae332f567728798f641c9
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Prim.cs: 4f97862f0a15323709edfd1f954a9823 -> b491c58f04dbc564b96abd342ad8b35a
+  custom:scripting/monoscript/fileName/Delaunay2D.cs: 869e224f81b30a6d8c37581ab9f000c6 -> d0608c9e686433960ad440017fde8109
+  custom:scripting/monoscript/fileName/keyHolder.cs: 2d5c21b1bcfecabca3058928901e34a4 -> 357a8424c1e425537ced0b3c835d5ed8
+  custom:scripting/monoscript/fileName/roomObject.cs: 9183ea8503960f25c651ce46702069e7 -> c94ae0fee18f80cf91d1a6d368e8c5ee
+  custom:scripting/monoscript/fileName/collider_switch.cs: b39cb23db0cfe9599450da8f6aea23da -> 41935e7c98d8b57f6578656724d00aff
+  custom:scripting/monoscript/fileName/PlayerPickUpKey.cs: 8991c113f1165993deb0c66889d3ce2d -> 0dab0a2f9133ac1ca1e6b80ac6164cd4
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/roomGenerate.cs: bab12230fd7bec31f264bedefe3195d3 -> 48c49d68f57ee8ab2d1aed58476fe7af
+  custom:scripting/monoscript/fileName/DGUI.cs: f5208c2b6d1f828d09eda3bdfefdccad -> 32800c9c5c8ee37203bcc7ed0314da37
+  custom:scripting/monoscript/fileName/Graphs.cs: 79728fe24a6fd585a3b997386cf9c5eb -> a8dd631179d18a342f38d2b759eb9163
+  custom:scripting/monoscript/fileName/LockAndKeyType.cs: 5780124b8e30d1608f4b4efabe8d2c53 -> be170da9eb3707e7dd8420115a0675ea
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:scripting/monoscript/fileName/doorBehavior.cs: 1be1008eed81a8c6c266971fff00ef2f -> 8e13b77ad79e3ecd8cc0c58179e4e202
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/LightCulling.cs: 279e121a765565513da85914290d7efb -> b0f51b77356d2b03de508c18cbacc630
+  custom:scripting/monoscript/fileName/Grid2D.cs: 8f6297df34271fdb1ce2d9607ec6261d -> 90647cc400823b41df847a6cbfc29026
+  custom:scripting/monoscript/fileName/gameSetting.cs: 6fd62cefa3f54664188c9ab7e5496769 -> 17745984b9f5fcfe233ca3ee73ffbf8b
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/door_switch.cs: f7fe005608badbb641ea8766d4d068cf -> f6686f7f77a532e0568554ff4788fab1
+  custom:scripting/monoscript/fileName/ObjectGenerate.cs: 3914464e4f5a26eb542a93bb77a2033f -> 9298d585b483313d8b1f6a6c84f6ec39
+  custom:scripting/monoscript/fileName/RGUI.cs: 05ed9c36aff445cb4e39c64332650824 -> e10f15e05fa2d49b510f6d818d4e9bea
+  custom:scripting/monoscript/fileName/LapFix.cs: 67553033bc23f4842cd803c4c175016d -> ca6330fdacb624d121ee4187dd4bae64
+  custom:scripting/monoscript/fileName/LockAndKeyGeneration.cs: c227531157c57584be8b3b41261d840a -> 05da694be3dbf4e26e87f2650461d0d9
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/OffsetSetting.cs: 95b6e19dc1749918c4fcb705bc98f2b9 -> 8ba2541f33b82125bb2200a3fd595736
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DungeonPathfinder2D.cs: 27bf94907d3a60467fb492a64910fb60 -> eba94d5565278710bbf78af3199583db
+  custom:scripting/monoscript/fileName/decorationData.cs: 7d9059aebc07b3381d23aaa9103f7043 -> 7498f30772dd63e539c66859c79f7a78
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ScriptableObjectExtension.cs: bd084ebf959a5cd4fcf9257a898db145 -> a60892209a349d705fb59b62527ac0cc
+  custom:scripting/monoscript/fileName/Rotator.cs: 3d48e8471c5f0ebc9eb2cc1ecbfb61f2 -> 8d1c63393acfe743b0e9b2fdd36433f3
+  custom:scripting/monoscript/fileName/style.cs: b4fc55fec48e5a685c42975d58ef8ff6 -> 58a156c2fd2d3ef2f555e3b8cfa2ed6c
+========================================================================
+Received Import Request.
+  Time since last request: 1252588.857402 seconds.
+  path: Assets/texture/brick_wall.PNG
+  artifactKey: Guid(14303c7f98373214689b190a14ba6275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture/brick_wall.PNG using Guid(14303c7f98373214689b190a14ba6275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704ae4637564051fee509274b15dddec') in 0.170730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 21.140911 seconds.
+  path: Assets/asset/floor/floor.prefab
+  artifactKey: Guid(1dc1d031145eed3479c06827d44f566e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset/floor/floor.prefab using Guid(1dc1d031145eed3479c06827d44f566e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4df985399c49e9c210553861f503b2d') in 0.608910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 33.402328 seconds.
+  path: Assets/asset/floor/floor.prefab
+  artifactKey: Guid(1dc1d031145eed3479c06827d44f566e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset/floor/floor.prefab using Guid(1dc1d031145eed3479c06827d44f566e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef14590d5ff5057a17b62fccc158a20') in 0.991483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12

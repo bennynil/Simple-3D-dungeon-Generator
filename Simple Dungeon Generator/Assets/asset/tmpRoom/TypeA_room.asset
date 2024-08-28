@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa9342a7f8306b4c80bcc970264c8a0, type: 3}
+  m_Name: TypeA_room
+  m_EditorClassIdentifier: 
+  style: {fileID: 11400000, guid: 2d3fa38740182c744b91acf6c7fc5fff, type: 2}
+  room: {fileID: 6381001648169209610, guid: 85602f5f79fdbe44d81c906685a03196, type: 3}
+  roomSize: {x: 3, y: 6}
+  doorObj:
+  - doorPos: {x: -1, y: 2}
+    height: 1
+    connected: 0
+    passage: 0
+  - doorPos: {x: 3, y: 4}
+    height: 1
+    connected: 0
+    passage: 0
+  - doorPos: {x: 1, y: -1}
+    height: 1
+    connected: 0
+    passage: 0
+  - doorPos: {x: 1, y: 6}
+    height: 1
+    connected: 0
+    passage: 0
+  doorTemp: []
+  layer_of_room: 1
+  layer_of_room_temp: 0
+  random: 1
+  can_spawn_object: 1

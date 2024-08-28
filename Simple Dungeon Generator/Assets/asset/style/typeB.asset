@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8e5b0843a5ea8499f981fb41e40d49, type: 3}
+  m_Name: typeB
+  m_EditorClassIdentifier: 
+  fill_rate: 0.5
+  other_fill_rate: 1
+  side_fill_rate: 0.2
+  objectSet:
+  - go: {fileID: 4542026079764571318, guid: c1e353e4c65ae1f42822660bc9e914db, type: 3}
+    weight: 1
+  - go: {fileID: 6640200272970900401, guid: 1fefea88a7460de4193e7bc5941e4c63, type: 3}
+    weight: 1
+  wallObjectSet: []
+  nearWallObjectSet: []
+  onHallwayObjectSet: []
+  otherObject: []
+  floors:
+  - go: {fileID: 5817321448015312445, guid: 1dc1d031145eed3479c06827d44f566e, type: 3}
+    weight: 1
+  - go: {fileID: 3768880620077957620, guid: 1376ca9c4e3210744bec3c5dbb7ed27b, type: 3}
+    weight: 1
+  ceilings:
+  - go: {fileID: 5817321448015312445, guid: 1dc1d031145eed3479c06827d44f566e, type: 3}
+    weight: 1
+  - go: {fileID: 3768880620077957620, guid: 1376ca9c4e3210744bec3c5dbb7ed27b, type: 3}
+    weight: 1
+  walls:
+  - go: {fileID: 3085063939879025187, guid: 47125dd8cbbcbab4a953d6c70a05c758, type: 3}
+    weight: 1
+  wallLights:
+  - go: {fileID: 3085063939879025187, guid: 47125dd8cbbcbab4a953d6c70a05c758, type: 3}
+    weight: 0
+  doors:
+  - go: {fileID: 865251449122457226, guid: b2d55075e9fcfef448cb9b14fa61aa74, type: 3}
+    weight: 1
+  doorLights:
+  - go: {fileID: 865251449122457226, guid: b2d55075e9fcfef448cb9b14fa61aa74, type: 3}
+    weight: 1
+  must_obj: []
+  must_other_obj: []
+  key1:
+    go: {fileID: 8235793670024336058, guid: 6dcbbd923fa3d93489fa136b8a00c6f7, type: 3}
+    weight: 1
